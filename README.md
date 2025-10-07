@@ -11,4 +11,4 @@ This is a C language program with a simple logic to create ascii arts out of pic
 ./ascii-art <picture-path> <dimensions-to-average>
 ./ascii-art /path/to/picture.png 6x8
 ```
-Special thx to: ![nothings](https://github.com/nothings/stb)
+Special thx to: [notings](https://github.com/nothings/stb)
